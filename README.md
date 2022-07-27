@@ -1,1 +1,3 @@
 # Cryptocurrencies
+
+For this analysis we wanted to find a new way to extract a crypto portfolio for a group of customers from a file containing pertinant crypto information to extract data from. We were to create a report that included cryptocurrency that are on the trading market and group them into a classification that would be easily read for future invenstments. For this project we extracted this information, we cleaned up the database into structures and specific data that we wanted for the analysis, and then we visualized the findings into a report for better understanding. All doing this through unserpervised learning structures and clustering algorithms. 
